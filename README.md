@@ -5,3 +5,4 @@ This repository contains implementations of various of various machine learning 
 ## Algorithms Implemented:
 1. Multiple Linear Regression
 2. Decision Tree Regression
+3. Random Forest Regressor
